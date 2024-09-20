@@ -5,7 +5,7 @@ Linear Regression is a supervised leanring algorithm used for predictive analysi
 The general form of the linear equation is:
 
 <p align="center">
-$ y = b_{0} + b_{1}x $
+$y = b_{0} + b_{1}x$
 </p>
 
 Where:
