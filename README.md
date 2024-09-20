@@ -23,7 +23,7 @@ Multiple Linear Regression is an extension of simple linear regression and invol
 The general form of the multiple linear regression equation is:
 
 <p align="center">
-$ y = b_{0} + b_{1}x_{1}  + b_{2}x_{2} + ... + b_{n}x_{n}$
+$y = b_{0} + b_{1}x_{1}  + b_{2}x_{2} + ... + b_{n}x_{n}$
 </p>
 
 Where:
